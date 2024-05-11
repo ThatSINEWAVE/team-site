@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "SINEWAVE",
+    template: "%s | SINEWAVE",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Security Researcher and Entrepreneur. Let's innovate!",
   openGraph: {
-    title: "chronark.com",
+    title: "SINEWAVE",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Security Researcher and Entrepreneur. Let's innovate!",
+    url: "https://sinewave.vercel.app",
+    siteName: "SINEWAVE",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://sinewave.vercel.app/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "SINEWAVE",
     card: "summary_large_image",
   },
   icons: {
