@@ -37,7 +37,7 @@ export default async function ProjectsPage() {
             Projects
           </h2>
           <p className="mt-4 text-zinc-400">
-            Description about team's projects here
+            Dive into our team's initiatives dedicated to tracking phishing campaigns, dismantling scams to safeguard digital environments.
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
