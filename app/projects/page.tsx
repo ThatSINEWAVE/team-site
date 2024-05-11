@@ -37,7 +37,7 @@ export default async function ProjectsPage() {
             Projects
           </h2>
           <p className="mt-4 text-zinc-400">
-            Some of the projects are from work and some are on my own time.
+            Description about team's projects here
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
