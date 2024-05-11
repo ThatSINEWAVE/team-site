@@ -1,6 +1,6 @@
 <div align="center">
 
-# Code of Conduct - personal-site
+# Code of Conduct - team-site
 
 </div>
 
