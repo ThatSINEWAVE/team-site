@@ -46,7 +46,7 @@ export default async function BlogsPage() {
             Blog
           </h2>
           <p className="mt-4 text-zinc-400">
-            Articles about work and off-work.
+            Articles on our research and actions.
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
