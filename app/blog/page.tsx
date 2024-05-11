@@ -46,7 +46,7 @@ export default async function BlogsPage() {
             Blog
           </h2>
           <p className="mt-4 text-zinc-400">
-            Description about team's blog here.
+            Explore insights into OSINT techniques, ethical white hat practices, and innovative approaches to combating cyber threats from our team.
           </p>
         </div>
         <div className="w-full h-px bg-zinc-800" />
